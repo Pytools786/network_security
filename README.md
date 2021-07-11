@@ -4,7 +4,8 @@ this python script will remove adds from spotify.
 
 how to install:
 
-1) clone or download this repository 
+1) clone or download this repository from here:
+
 git clone https://github.com/Pytools786/spotify_add_remover/
 
 2) open your windows cmd with admin prevelleges and eun the python program.
