@@ -8,7 +8,7 @@ how to install:
 
 git clone https://github.com/Pytools786/spotify_add_remover/
 
-2) open your windows cmd with admin prevelleges and eun the python program.
+2) open your windows cmd with admin prevelleges and run the python program:
 
 python3 spotify_add_remover.py
 
